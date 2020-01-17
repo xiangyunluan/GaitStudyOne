@@ -1,4 +1,4 @@
 # GaitStudyOne
 this is first git study programer
 
-add one message
+add one message +note1
